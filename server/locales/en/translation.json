@@ -1,0 +1,58 @@
+{
+	"email": {
+		"leaveform": {
+			"option1": "Paid Vacation",
+			"option2": "Special Leave",
+			"option3": "On-Demand Leave",
+			"option4": "Unpaid Leave",
+			"option5": "Other Absence",
+			"title": "New leave request",
+			"employee": "Employee",
+			"type": "Type",
+			"dates": "Dates",
+			"days": "Number of days",
+			"goToRequest": "Go to request"
+		},
+		"welcome": {
+			"subject": "Welcome to planopia.pl",
+			"login": "Login: {{username}}",
+			"password": "Password: Click <a href=\"{{link}}\">here</a> to set your password and position.",
+			"linkActive": "The link will be active for 24 hours."
+		},
+		"leaveRequest": {
+			"subject": "Leave Request Updated: {{type}} - {{status}}",
+			"employee": "Employee",
+			"type": "Type",
+			"dates": "Dates",
+			"days": "Number of days",
+			"updatedBy": "Request reviewed by",
+			"goToRequest": "Go to request",
+			"updatedSuccessfully": "Request status updated successfully",
+			"updateFailed": "Error updating request status",
+			"accessDenied": "Access denied",
+			"notFound": "Request not found",
+			"titlemail": "Notification of",
+			"titlemailsecond": "Notification of absence"
+		}
+	},
+	"leaveform": {
+		"option1": "Paid Vacation",
+		"option2": "Special Leave",
+		"option3": "On-Demand Leave",
+		"option4": "Unpaid Leave",
+		"option5": "Other Absence"
+	},
+	"resetpass": {
+		"subject": "Reset your password on planopia.pl",
+		"body": "Click <a href=\"{{link}}\">here</a> to reset your password.",
+		"linkActive": "The link will be active for 12 hours.",
+		"sent": "If a user with that email is registered, a password reset link has been sent.",
+		"failed": "Failed to send password reset link.",
+		"noUser": "No user with that email exists."
+	},
+	"status": {
+		"pending": "Pending",
+		"accepted": "Accepted",
+		"rejected": "Rejected"
+	}
+}

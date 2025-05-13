@@ -1,0 +1,58 @@
+{
+	"email": {
+		"leaveform": {
+			"option1": "Urlop wypoczynkowy",
+			"option2": "Urlop okolicznościowy",
+			"option3": "Urlop na żądanie",
+			"option4": "Urlop bezpłatny",
+			"option5": "Inna nieobecność",
+			"title": "Nowe zgłoszenie urlopu/nieobecności",
+			"employee": "Pracownik",
+			"type": "Rodzaj",
+			"dates": "Daty",
+			"days": "Liczba dni",
+			"goToRequest": "Przejdź do zgłoszenia"
+		},
+		"welcome": {
+			"subject": "Witaj w planopia.pl",
+			"login": "Login: {{username}}",
+			"password": "Hasło: Kliknij <a href=\"{{link}}\">tutaj</a>, aby ustawić swoje hasło i stanowisko.",
+			"linkActive": "Link będzie aktywny 24 godziny."
+		},
+		"leaveRequest": {
+			"subject": "Zaktualizowano zgłoszenie: {{type}} - {{status}}",
+			"employee": "Pracownik",
+			"type": "Rodzaj",
+			"dates": "Daty",
+			"days": "Liczba dni",
+			"updatedBy": "Zgłoszenie rozpatrzone przez",
+			"goToRequest": "Przejdź do zgłoszenia",
+			"updatedSuccessfully": "Status zgłoszenia został zaktualizowany pomyślnie",
+			"updateFailed": "Błąd podczas aktualizacji statusu zgłoszenia",
+			"accessDenied": "Brak dostępu",
+			"notFound": "Zgłoszenie nie zostało znalezione",
+			"titlemail": "Zgłoszenie o",
+			"titlemailsecond": "Zgłoszenie urlopu/nieobecności"
+		}
+	},
+	"leaveform": {
+		"option1": "Urlop wypoczynkowy",
+		"option2": "Urlop okolicznościowy",
+		"option3": "Urlop na żądanie",
+		"option4": "Urlop bezpłatny",
+		"option5": "Inna nieobecność"
+	},
+	"resetpass": {
+		"subject": "Zresetuj swoje hasło w planopia.pl",
+		"body": "Kliknij <a href=\"{{link}}\">tutaj</a>, aby zresetować swoje hasło.",
+		"linkActive": "Link będzie aktywny 12 godzin.",
+		"sent": "Jeśli użytkownik z tym adresem email jest zarejestrowany, link do resetowania hasła został wysłany.",
+		"failed": "Błąd podczas wysyłania linku do resetowania hasła.",
+		"noUser": "Użytkownik o podanym emailu nie istnieje."
+	},
+	"status": {
+		"pending": "Oczekuje na akceptację",
+		"accepted": "Zaakceptowano",
+		"rejected": "Odrzucono"
+	}
+}
